@@ -1,0 +1,6 @@
+[theme]
+# 포인트 색만 지정한다. 배경과 글자색은 사용자의 라이트/다크 설정을 따른다.
+primaryColor = "#2E7D32"
+
+[browser]
+gatherUsageStats = false
